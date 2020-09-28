@@ -37,12 +37,11 @@
   z-index: 3;
   text-align: justify;
   width: 730px;
-}
-.header__title_text-big_bold {
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
 }
+
 .header__main-illustration {
   background-image: url(../images/header-image.png);
   background-size: cover;
@@ -111,6 +110,7 @@
   font-size: 24px;
   font-weight: normal;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .two-columns__span-accent {
@@ -349,14 +349,14 @@
   font-weight: bold;
 }
 
-.footer__column-link {
+.footer__list-item {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   flex-wrap: nowrap;
 }
 
-.footer__column-link_color-white {
+.footer__column-link {
   color: #f2f2f2;
   text-decoration: none;
 }
