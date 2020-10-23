@@ -20,54 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cab4a08b-38ae-4fd5-9830-9bcb42766970" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webstorm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__column/footer__column.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__column_content_copyright/footer__column_content_copyright.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__list-item/footer__list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social-icon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__main-illustration/header__main-illustration.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/__text/table__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/table/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cards/__description/cards__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cards/__item/cards__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cards/__title/cards__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__book-container/khan__book-container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__container/khan__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/khan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/opacity/opacity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/how-to-learn.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +82,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -108,7 +94,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603448895295</updated>
-      <workItem from="1603448897138" duration="4347000" />
+      <workItem from="1603448897138" duration="6696000" />
+      <workItem from="1603465856268" duration="1500000" />
+      <workItem from="1603467365015" duration="7502000" />
     </task>
     <servers />
   </component>
@@ -125,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
