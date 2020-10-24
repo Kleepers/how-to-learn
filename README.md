@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://i.ibb.co/n89jvwJ/Fire-Shot-Capture-007.png" width="80%"></p>
 
-**Сайт создан в рамках курса Веб-разработчик Яндекс.Практикума (https://praktikum.yandex.ru/web/). Код проверен ревьюерами** .
+**Сайт создан в рамках курса Веб-разработчик Яндекс.Практикума (https://praktikum.yandex.ru/web/). Код проверен ревьюерами.** 
 
 ## Что использовано
 
